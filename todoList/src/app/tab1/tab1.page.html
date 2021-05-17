@@ -1,0 +1,40 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      To do List
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">To do List</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-item>
+  <ion-input clear-input value="clear me" placeholder="Add some text here"
+  [(ngModel)] = "valueInput"
+  ></ion-input>
+</ion-item>
+  <ion-button expand="full" color="tertiary"
+  (click) = "onAdd()"
+  >+Add</ion-button>
+
+  <ion-list>
+    <ion-item-sliding *ngFor="let todo of todoList; index as i">
+      <ion-item>
+        <ion-label>{{i+1}} - {{todo.title}}</ion-label>
+      </ion-item>
+      <ion-item-options side="end">
+        <ion-item-option color="warning" 
+        (click)="onDelete(i)"
+        >Done</ion-item-option>
+      </ion-item-options>
+    </ion-item-sliding>
+    {{i}}
+  </ion-list>
+ 
+
+</ion-content>
