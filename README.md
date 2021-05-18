@@ -8,7 +8,7 @@ Questions --> You can write and assign a color of preference to your text, add t
 I will continue to explore and familiarize myself with this powerful tool. Let's see what else I can do...:eyes:
 
 
-<img src="images/ionic-3.png" width="50">
+<img src="images/ionic-3.png" width="100">
 
 ![](images/ionic-3.png) ![](images/ionic-2.png)
 ![](images/ionic-1.png)
