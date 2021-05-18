@@ -1,7 +1,7 @@
 # To Do app - Ionic
  Learning how to use Ionic
  
-As part of my learning, I am discovering different things like Angular and Ionic. This week I have done some projects and exercises to familiarize myself with Ionic. In this particular one I have made an application with two sections. <br>
+As part of my learning, I am discovering different frameworks and style sheets like Angular and Ionic. This week I have done some projects and exercises to familiarize myself with Ionic. In this particular one I have made an app. <br>
 ### ToDo list --> You can add things to your list, number them and delete them once you are done with a simple swipe. <br>
 ### Questions --> You can write and assign a color of preference to your text, add them elements to your list and delete them when you want. 
 
