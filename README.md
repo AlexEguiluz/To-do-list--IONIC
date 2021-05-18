@@ -9,8 +9,7 @@ I will continue to explore and familiarize myself with this powerful tool. Let's
 
 <br>
 <br>
-<img src="images/ionic-1.png" width="280">
-<img src="images/ionic-3.png" width="280">
-<img src="images/ionic-2.png" width="280">
+<img src="images/ionic-1.png" width="280"> <img src="images/ionic-3.png" width="280"> <img src="images/ionic-2.png" width="280">
+
 
 
